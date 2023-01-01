@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+#### I'm a Backend Developer working in Belgrade, Serbia.
+
+##### BIO
+
+- 🏢 I'm software engineer with 6 years of experience
+- ⚙️ Deep knowledge in C++, Golang and Python
+- 🌍 Learning all about data compression
+- 📫 Reach me: <pl0q1n@gmail.com>
+
+
 <!--
 **pl0q1n/pl0q1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
